@@ -6,7 +6,9 @@
 
 ## 实验结果
 
-正式训练跑了 300 步。前 50 步的平均 loss 为 **0.08431**，后 50 步为 **0.07189**，下降 **14.73%**。[训练曲线](results/figures/training_loss.png)同时保留每一步的读数和 20 步滑动平均。
+正式训练跑了 300 步。前 50 步的平均 loss 为 **0.08431**，后 50 步为 **0.07189**，下降 **14.73%**。图中保留每一步的读数和 20 步滑动平均。
+
+![300 步原始训练 loss、20 步滑动平均和前后 50 步均值](results/figures/training_loss.png)
 
 在首个 DDIM 步捕获真实输入后，我单独回放同一层。表中为每种方法 30 次测量的中位数。
 
@@ -16,7 +18,9 @@
 | 768×768 | 9,216 | 2.579 / 0.453 | 5.69× | 61.00 / 83.81 |
 | 1024×1024 | 16,384 | 7.478 / 0.706 | 10.59× | 101.00 / 141.00 |
 
-[训练原始 loss](results/training_loss_raw.csv) · [180 条性能读数](results/benchmark_raw.csv) · [数值校验](results/qualify.csv) · [性能图](results/figures/module_performance.png)
+![Full 和 Sparse 的目标层耗时、新增峰值显存与加速比](results/figures/module_performance.png)
+
+[训练原始 loss](results/training_loss_raw.csv) · [180 条性能读数](results/benchmark_raw.csv) · [数值校验](results/qualify.csv)
 
 ![同一提示词与初始噪声生成的三张图](results/figures/generation_triptych.png)
 
