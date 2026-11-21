@@ -1,0 +1,9 @@
+{
+  "successful_updates": 300,
+  "attempts": 300,
+  "trainable_parameters": 859520964,
+  "training_seconds": 78.49676404707134,
+  "training_peak_allocated_bytes": 17756940288,
+  "save_and_hash_seconds": 8.051884189946577,
+  "unet_sha256": "e84fcbfce68db04ac4423b6818e99be76e8d73e00a6ac069eba7d673f4df81e8"
+}

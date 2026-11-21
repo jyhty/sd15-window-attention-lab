@@ -1,0 +1,39 @@
+# Local models, full runs, verification artifacts and planning drafts
+/models/
+/outputs/
+/runs/
+/runtime/
+/setup-check/
+/references/
+/PLAN.md
+/SPARSE_PLAN.md
+/environment-lock.txt
+
+# Downloaded and exported data (the published manifest is in the root)
+/data/
+
+# Reports, bundles, and binary experiment artifacts
+*.docx
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.parquet
+
+# Local environments and machine settings
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.cache/
+.env
+.env.*
+/.agents/
+/.aws/
+/.codex/

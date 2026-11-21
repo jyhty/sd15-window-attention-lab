@@ -1,0 +1,16 @@
+{
+  "updates": 300,
+  "moving_window": 20,
+  "segment_size": 50,
+  "first_50_mean": 0.08430828853277489,
+  "last_50_mean": 0.07188684248365462,
+  "last_minus_first": -0.012421446049120266,
+  "first_steps": [
+    1,
+    50
+  ],
+  "last_steps": [
+    251,
+    300
+  ]
+}

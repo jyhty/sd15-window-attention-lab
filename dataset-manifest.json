@@ -1,0 +1,332 @@
+{
+  "repo": "huggan/smithsonian_butterflies_subset",
+  "revision": "3cdedf844922ab40393d46d4c7f81c596e1c6d45",
+  "seed": 42,
+  "train_size": 32,
+  "val_size": 8,
+  "upstream": "https://huggingface.co/datasets/ceyda/smithsonian_butterflies",
+  "upstream_license": "CC0-1.0",
+  "source_sha256": "5895d86858bf375e34f211154570690c7cc23b7c65261b60566037ae1add7eaa",
+  "records": [
+    {
+      "split": "train",
+      "source_index": 654,
+      "file_name": "0654.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "ea71925b9d9968a0ef7883ba37916d74",
+      "sha256": "877f0226c74f212be53223c75578a3a7355a1a9c6b4cc830bcbb498b61d044d1"
+    },
+    {
+      "split": "train",
+      "source_index": 114,
+      "file_name": "0114.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "44dd10493c8fdddc478406c55ebffc51",
+      "sha256": "1ada8ce7b64e765781881414ac9e73333959954717770afa2422a19898055155"
+    },
+    {
+      "split": "train",
+      "source_index": 25,
+      "file_name": "0025.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "0913007531cd53f5402ccca1b1a80b61",
+      "sha256": "168a2f135eb1c771b5fda6df9118406c17f5dce1f7fde2a1cc034d4de77e33a5"
+    },
+    {
+      "split": "train",
+      "source_index": 759,
+      "file_name": "0759.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "bcbd0a7896976f9ad7f1905a46eaedbc",
+      "sha256": "b9aab74ba93983350d54d2253b1c8722df48719fe15ba9038401520b00257f39"
+    },
+    {
+      "split": "train",
+      "source_index": 281,
+      "file_name": "0281.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "a4738a53b8e979bce33a56cf7d8612c9",
+      "sha256": "ef487e46bb8a83288523f5b8b843abf39f44fe262eef449aed6b8184183cf0c3"
+    },
+    {
+      "split": "train",
+      "source_index": 250,
+      "file_name": "0250.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "f747c9caa746f43663b08aca64a21f3e",
+      "sha256": "0f3e9cffc9ca41f6d692c9f7fe39c1386acdd14bc34e5bb0c72b3a9da3fc6ce3"
+    },
+    {
+      "split": "train",
+      "source_index": 228,
+      "file_name": "0228.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "5dd1974066cace7c22e8dc33edc84ec5",
+      "sha256": "e5c988f9ad1e02cae84cadc12ac134f8264788e69eb3a14f8ade15d0e2c175bf"
+    },
+    {
+      "split": "train",
+      "source_index": 142,
+      "file_name": "0142.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "dbd6e554507ff8789cae37c211b69f33",
+      "sha256": "298eabbedc5e9e2bd11ba25456e5bc794ee25787456d826429f0c27a9f10db4c"
+    },
+    {
+      "split": "train",
+      "source_index": 754,
+      "file_name": "0754.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "9425ee5084adf172fb41ab64d0dc153a",
+      "sha256": "0903352d27f2892f3ce76a6261ccb81d1097a741a66f73262703a265d52a820e"
+    },
+    {
+      "split": "train",
+      "source_index": 104,
+      "file_name": "0104.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "e4ddca8a324a4f7399737283f532822c",
+      "sha256": "1b138d25d88ddbcfe30c68e19fd86eec609b8804ba08932c8ee25637aaf7a27d"
+    },
+    {
+      "split": "train",
+      "source_index": 692,
+      "file_name": "0692.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "e24844f477c5163bd3247451955a5627",
+      "sha256": "53445fc6d5537b631f7f2aa5574c326a48b9747348f2b41728ac801e614ea769"
+    },
+    {
+      "split": "train",
+      "source_index": 758,
+      "file_name": "0758.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "a697615901ddc8c6f936201850d4ebef",
+      "sha256": "f34c94bbadeb36cd235ebfffe79b35a95e39feb254352fc62550d59bcc4ea305"
+    },
+    {
+      "split": "train",
+      "source_index": 913,
+      "file_name": "0913.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "1a4e99dd0690ab0f8eab97d75b82cf28",
+      "sha256": "29e2f0bcde69d3fb79c9e6c062e606916d8f01143f0fdf17455fdee44e16f620"
+    },
+    {
+      "split": "train",
+      "source_index": 558,
+      "file_name": "0558.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "6857448b988b656c3827ad89e35d24bc",
+      "sha256": "6eec471f4db588155c1631f6eb4da171692e779705e17ebc9a6b68f951fe3c6b"
+    },
+    {
+      "split": "train",
+      "source_index": 89,
+      "file_name": "0089.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "a06ff8098d27d7152771c93e1f539ee2",
+      "sha256": "447f4ec07e82485792bafda1b078f3ff06287a3bd3136c8113c4c93b579c487f"
+    },
+    {
+      "split": "train",
+      "source_index": 604,
+      "file_name": "0604.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "8ff3fa2e90506aef16993577ee0a05b6",
+      "sha256": "fbdbcadb85399310b68e9eeb8ac5022273ca29607f614529c242b22b30717ba0"
+    },
+    {
+      "split": "train",
+      "source_index": 432,
+      "file_name": "0432.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "2586d611f5fdeaf7663422e146fc58cf",
+      "sha256": "7ba136acfc7b8a5ad965fa95947c7191fb2cc995f5cb00ff7937621adafcf58b"
+    },
+    {
+      "split": "train",
+      "source_index": 32,
+      "file_name": "0032.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "80ab4dac3ad145f57c5b847e28330c2b",
+      "sha256": "ea1de976278254b5c8f7460bdb03bc195bc37e6b1b39bed0df4520a27e1fae10"
+    },
+    {
+      "split": "train",
+      "source_index": 30,
+      "file_name": "0030.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "5f206e7a093a04f3ddb93c8610f775bf",
+      "sha256": "6c2202caafb3ba766491f1e5e84fa3cf56329a711185ef98d99d56a872dc00af"
+    },
+    {
+      "split": "train",
+      "source_index": 95,
+      "file_name": "0095.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "6090c3ee8ce9113752282e064b997f92",
+      "sha256": "e1d6b6bd1763bcd8fe5aca1a88a67c0c064918221e7ff512632319cb33c3bf07"
+    },
+    {
+      "split": "train",
+      "source_index": 223,
+      "file_name": "0223.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "17c32e558777a21f9f16b25c72e2b08f",
+      "sha256": "3ea54226a5a8e0bbc2d9df332e4ed27159827b42c73ac7fd33564cedff4685e0"
+    },
+    {
+      "split": "train",
+      "source_index": 238,
+      "file_name": "0238.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "2dccba7f65e5e1802d83c0781d9866b5",
+      "sha256": "cc699a89064b8b65c9f1ad4d14b25e3f9e0d099ba76cc3b0ed3f5852df71f1cb"
+    },
+    {
+      "split": "train",
+      "source_index": 517,
+      "file_name": "0517.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "34026744babe8bff00f1faca6dbb4a29",
+      "sha256": "52f7361aef52a9c4e90eec0f190632e884149cc04b0bff9909bcebdc078bb284"
+    },
+    {
+      "split": "train",
+      "source_index": 616,
+      "file_name": "0616.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "787640f512a3d6eecab6fbd69b6a43e7",
+      "sha256": "739df5d83ff16e0c3d25bfee75b6cfbc79f927cf55450a71300f81b1c86b839e"
+    },
+    {
+      "split": "train",
+      "source_index": 27,
+      "file_name": "0027.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "ef02b15fd0f78a5a386083a8616c423e",
+      "sha256": "5244732823e84b5c932e5565608d186b8c5afe84c16721d766f6bdd880ba5939"
+    },
+    {
+      "split": "train",
+      "source_index": 574,
+      "file_name": "0574.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "68e84816a74a46a0db1d4b0bd8aca023",
+      "sha256": "76491ec915da67ea514b32d4308a5fcfef856736f78e47c54ab7509fdb10f70c"
+    },
+    {
+      "split": "train",
+      "source_index": 203,
+      "file_name": "0203.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "b3217a0629e905b14754c40bcc615ecf",
+      "sha256": "86b395b28bb8d80ca8098934a06763831a71f35c88095b89bdc0c19401ef913b"
+    },
+    {
+      "split": "train",
+      "source_index": 733,
+      "file_name": "0733.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "3dbd0e50ada6936dd8d7b6bd3a9d7caa",
+      "sha256": "a07ff4a87db2328761e17ccc0631b5f4c52ed482e15ec6006041b69b62da4af6"
+    },
+    {
+      "split": "train",
+      "source_index": 665,
+      "file_name": "0665.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "2102949a8f08d5342b95c968111b034b",
+      "sha256": "9a49cde8d46c73eeaae695b59d79b91fb88b89de457bb33391cfe42f520b31ce"
+    },
+    {
+      "split": "train",
+      "source_index": 718,
+      "file_name": "0718.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "2af93b6e56c286a80f12fdcde764ac33",
+      "sha256": "7fb59007ea7a343047504777ae8bc96fc4092fa05dac7f3c13891a60b73fdb12"
+    },
+    {
+      "split": "train",
+      "source_index": 429,
+      "file_name": "0429.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "654b957d03b88f920943b291bd04b6a9",
+      "sha256": "09f7886a3ef675a72652e07163f489c8659bd1715bfffee0f5348b97f7c083da"
+    },
+    {
+      "split": "train",
+      "source_index": 225,
+      "file_name": "0225.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "dd75f351d33ce121dd43c377af43cfb3",
+      "sha256": "57c0ca90eb98b9669d5d8cc2daccbe1e7b4e3c2bf507d72816a50e185384875f"
+    },
+    {
+      "split": "val",
+      "source_index": 459,
+      "file_name": "0459.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "340de15c4d9cbb00dec162e7040a08d9",
+      "sha256": "2f4a0f57aecb7932ed65c09e8fe5b81f2f8c0ed9082a0d3ba6b4599e2a0aa0bb"
+    },
+    {
+      "split": "val",
+      "source_index": 603,
+      "file_name": "0603.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "39fe896e0fc9649b9b05ff6759bf70b0",
+      "sha256": "df9cc0ad4d83bf96d2c02d3d37100aa8d428aabd784cf0535bfedae879993c6c"
+    },
+    {
+      "split": "val",
+      "source_index": 284,
+      "file_name": "0284.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "7dd718113ba01e3e29320be6144f1c4c",
+      "sha256": "0899bd9bbadd62753afbcc4a58ba51070f55a060e6ef833c941773d139171901"
+    },
+    {
+      "split": "val",
+      "source_index": 828,
+      "file_name": "0828.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "c6765bda5616c30fadfb0e8938af095e",
+      "sha256": "b37f1607b1af253979b2a48ede89c50a55f951230b80bafa974a17e649d15e3a"
+    },
+    {
+      "split": "val",
+      "source_index": 890,
+      "file_name": "0890.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "324fb1ddda818997d206e4aecaab4fe8",
+      "sha256": "78ec9c20740ec2e71b63ae8b80416c2107ebed203f6e3789d212be2df058c7f4"
+    },
+    {
+      "split": "val",
+      "source_index": 6,
+      "file_name": "0006.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "70e29bfb09a5698e57a8ad1aba87a6ce",
+      "sha256": "c8b3d3aa31fd17beff803549d2d0daca4d698f5d9875378320bb8a1961c39031"
+    },
+    {
+      "split": "val",
+      "source_index": 777,
+      "file_name": "0777.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "f2b247943c4552a3a0389963907af854",
+      "sha256": "92466e5a15aeba0813aa5f6b12b5d6d8347f95ac4d4097da31297ff99f4aa62d"
+    },
+    {
+      "split": "val",
+      "source_index": 825,
+      "file_name": "0825.png",
+      "text": "a photo of a winged insect",
+      "source_image_hash": "9abd8c9b96f642bd7f772a187e478090",
+      "sha256": "1429e0fe91a63bfa2ec2242327e8cfe5606b0cd25b4a58a2ba8b3959c0f8b84c"
+    }
+  ]
+}
